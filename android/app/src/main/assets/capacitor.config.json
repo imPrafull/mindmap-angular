@@ -1,0 +1,6 @@
+{
+	"appId": "mindomo.test.app",
+	"appName": "mindomo",
+	"webDir": "dist/mindomo",
+	"bundledWebRuntime": false
+}
